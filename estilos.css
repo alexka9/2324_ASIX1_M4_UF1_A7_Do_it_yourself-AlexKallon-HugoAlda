@@ -1,0 +1,71 @@
+/* Regla 1 */
+body{
+    margin: 0%;
+    padding-left: 230px;
+    padding-right: 230px;
+    font-family: Arial, sans-serif;
+    background-image: url(https://piks.eldesmarque.com/bin/esports/2019/10/Banner_Preseason-1_dwfwpnp0byzkpe2hk65v.jpg);
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* regla 2 */
+.imgtitulo{
+    width: 10%;
+}
+
+/* regla 3 */
+body > div > p > strong{
+    background-color: rgba(255, 255, 255, 0.719);
+    border-radius: 3px;
+}
+
+/* regla 4 */
+.t1{
+    width: 40%;
+}
+
+/* regla 5 */
+.imgt1{
+   text-align: center;
+}
+
+/* regla 6 */
+.tabla{
+    padding-left: 300px;
+    text-align: center;
+}
+
+/* regla 7 */
+.titulo1{
+    text-align: center;
+    padding: 5px;
+}
+
+/* regla 8 */
+.sombreado{
+    background-color: grey;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+/* regla 9 */
+.sombreado2{
+    background-color: rgba(23, 71, 228, 0.644);
+    display: inline;
+    border-radius: 5px;
+}
+
+/* regla 10 */
+.contenedor1{
+    background-color: rgba(255,91,91,255);
+    border: solid color black 2px;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    line-height: 25px;
+}
